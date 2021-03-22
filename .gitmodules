@@ -1,0 +1,15 @@
+[submodule "react-form"]
+	path = react-form
+	url = git@github.com:MadsHornbeck/react-form.git
+[submodule "validators"]
+	path = validators
+	url = git@github.com:MadsHornbeck/validators.git
+[submodule "react-modals"]
+	path = react-modals
+	url = git@github.com:MadsHornbeck/react-modals.git
+[submodule "react-carousel"]
+	path = react-carousel
+	url = git@github.com:MadsHornbeck/react-carousel.git
+[submodule "scroll-lock"]
+	path = scroll-lock
+	url = git@github.com:MadsHornbeck/scroll-lock.git

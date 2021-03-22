@@ -12,15 +12,14 @@
       "version": "latest"
     }
   },
-  "plugins": ["react", "react-hooks", "prettier"],
   "extends": [
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
-    "plugin:prettier/recommended",
-    "prettier/react"
+    "plugin:prettier/recommended"
   ],
   "rules": {
-    "react/prop-types": 0
+    "react/prop-types": 0,
+    "prettier/prettier": ["error", { "endOfLine": "auto" }]
   }
 }

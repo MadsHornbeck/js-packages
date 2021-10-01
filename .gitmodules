@@ -13,3 +13,6 @@
 [submodule "scroll-lock"]
 	path = scroll-lock
 	url = git@github.com:MadsHornbeck/scroll-lock.git
+[submodule "fluid-typography"]
+	path = fluid-typography
+	url = git@github.com:MadsHornbeck/fluid-typography.git

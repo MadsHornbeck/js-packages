@@ -11,7 +11,9 @@ const configs = {
     },
   },
   "react-form": { input: { external: ["react"] } },
-  "react-modals": { input: { external: ["@hornbeck/scroll-lock", "react"] } },
+  "react-modals": {
+    input: { external: ["@hornbeck/scroll-lock", "react", "react-dom"] },
+  },
   "scroll-lock": { input: { external: ["react"] } },
   validators: undefined,
 };
